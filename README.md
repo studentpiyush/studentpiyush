@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="250px" />
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="225px" />
   <h1>Hi there, I'm Piyush Sharma 👋🏻</h1>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F7F7F7&background=00000000&center=true&vCenter=true&width=440&lines=B.Tech+CSE+Student;Cybersecurity+Enthusiast;Open+Source+Contributor;Passionate+Developer" alt="Typing SVG" />
@@ -96,8 +96,9 @@
 
 ### 🔥 My GitHub Stats & Trophies <img src="https://media.giphy.com/media/3oKIPnAia Hgb2OQc5i/giphy.gif" width="30px"/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=studentpiyush&theme=tokyonight&show_icons=true&hide_border=false&include_all_commits=true&count_private=true" alt="Piyush's GitHub Stats"/>
+<br clear="both">
+
+<img align="right" height="198" src="https://camo.githubusercontent.com/0a0dc4ec78739f9c62b556ee154065af0de7b337110cfd95587770c4b3e269c7/68747470733a2f2f6d656469612e74656e6f722e636f6d2f7a7a6e746d325f3942336741414141432f6861636b65722e676966"  />
   <br/>
   <img src="https://streak-stats.demolab.com?user=studentpiyush&theme=dark&hide_border=true&border_radius=5" alt="GitHub Streak" />
   <br/>
@@ -106,22 +107,3 @@
 
 ---
 
-### ⚡ My Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/studentpiyush/studentpiyush/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/studentpiyush/studentpiyush/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/studentpiyush/studentpiyush/output/pacman-contribution-graph.svg">
-</picture>
-
----
-
-### 📺 Featured Content (Optional: Embed a YouTube Video)
-
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID" target="_blank">
-    <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg" alt="YouTube Video Title (replace this!)" width="500"/>
-  </a>
-  <br>
-  <a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID" target="_blank">Watch My Latest Project Demo on YouTube!</a>
-</p>
