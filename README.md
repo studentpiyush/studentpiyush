@@ -94,7 +94,7 @@
 
 ---
 
-### 🔥 My GitHub Stats & Trophies <img src="https://media.giphy.com/media/3oKIPnAia Hgb2OQc5i/giphy.gif" width="30px"/>
+### 🔥 My GitHub Stats <img src="https://media.giphy.com/media/3oKIPnAia Hgb2OQc5i/giphy.gif" width="30px"/>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=studentpiyush&theme=tokyonight&show_icons=true&hide_border=false&include_all_commits=true&count_private=true" alt="Piyush's GitHub Stats"/>
@@ -102,4 +102,3 @@
   <img src="https://streak-stats.demolab.com?user=studentpiyush&theme=dark&hide_border=true&border_radius=5" alt="GitHub Streak" />
   <br/>
 </p>
----
