@@ -101,9 +101,6 @@
 <img align="right" height="190" src="https://camo.githubusercontent.com/0a0dc4ec78739f9c62b556ee154065af0de7b337110cfd95587770c4b3e269c7/68747470733a2f2f6d656469612e74656e6f722e636f6d2f7a7a6e746d325f3942336741414141432f6861636b65722e676966"  />
   <br/>
   <img src="https://streak-stats.demolab.com?user=studentpiyush&theme=dark&hide_border=true&border_radius=5" alt="GitHub Streak" />
-  <br/>
-  <img align="centre" src="https://github-profile-trophy.vercel.app/?username=studentpiyush&theme=tokyonight&row=1&column=7" alt="GitHub Trophies" />
-</p>
 
 ---
 
