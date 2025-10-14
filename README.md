@@ -96,10 +96,6 @@
 
 ### 🔥 My GitHub Stats <img src="https://media.giphy.com/media/3oKIPnAia Hgb2OQc5i/giphy.gif" width="30px"/>
 
-<br clear="both">
-
-<img align="right" height="198" src="https://camo.githubusercontent.com/0a0dc4ec78739f9c62b556ee154065af0de7b337110cfd95587770c4b3e269c7/68747470733a2f2f6d656469612e74656e6f722e636f6d2f7a7a6e746d325f3942336741414141432f6861636b65722e676966"  />
-  <br/>
   <img src="https://streak-stats.demolab.com?user=studentpiyush&theme=dark&hide_border=true&border_radius=5" alt="GitHub Streak" />
   <br/>
 </p>
