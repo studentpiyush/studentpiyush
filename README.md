@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="225px" />
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="135px" />
   <h1>Hi there, I'm Piyush Sharma 👋🏻</h1>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F7F7F7&background=00000000&center=true&vCenter=true&width=440&lines=B.Tech+CSE+Student;Cybersecurity+Enthusiast;Open+Source+Contributor;Passionate+Developer" alt="Typing SVG" />
