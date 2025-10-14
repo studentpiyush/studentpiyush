@@ -96,32 +96,8 @@
 
 ### 🔥 My GitHub Stats & Trophies <img src="https://media.giphy.com/media/3oKIPnAia Hgb2OQc5i/giphy.gif" width="30px"/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=studentpiyush&theme=tokyonight&show_icons=true&hide_border=false&include_all_commits=true&count_private=true" alt="Piyush's GitHub Stats"/>
   <br/>
   <img src="https://streak-stats.demolab.com?user=studentpiyush&theme=dark&hide_border=true&border_radius=5" alt="GitHub Streak" />
   <br/>
   <img src="https://github-profile-trophy.vercel.app/?username=studentpiyush&theme=tokyonight&row=1&column=7" alt="GitHub Trophies" />
-</p>
-
----
-
-### ⚡ My Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/studentpiyush/studentpiyush/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/studentpiyush/studentpiyush/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/studentpiyush/studentpiyush/output/pacman-contribution-graph.svg">
-</picture>
-
----
-
-### 📺 Featured Content (Optional: Embed a YouTube Video)
-
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID" target="_blank">
-    <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg" alt="YouTube Video Title (replace this!)" width="500"/>
-  </a>
-  <br>
-  <a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID" target="_blank">Watch My Latest Project Demo on YouTube!</a>
 </p>
