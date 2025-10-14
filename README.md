@@ -102,7 +102,7 @@
   <br/>
   <img src="https://streak-stats.demolab.com?user=studentpiyush&theme=dark&hide_border=true&border_radius=5" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=studentpiyush&theme=tokyonight&row=1&column=7" alt="GitHub Trophies" />
+  <img align="centre" src="https://github-profile-trophy.vercel.app/?username=studentpiyush&theme=tokyonight&row=1&column=7" alt="GitHub Trophies" />
 </p>
 
 ---
