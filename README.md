@@ -113,3 +113,15 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/studentpiyush/studentpiyush/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/studentpiyush/studentpiyush/output/pacman-contribution-graph.svg">
 </picture>
+
+---
+
+### 📺 Featured Content (Optional: Embed a YouTube Video)
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID" target="_blank">
+    <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg" alt="YouTube Video Title (replace this!)" width="500"/>
+  </a>
+  <br>
+  <a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID" target="_blank">Watch My Latest Project Demo on YouTube!</a>
+</p>
