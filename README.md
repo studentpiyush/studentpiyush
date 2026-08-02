@@ -34,10 +34,6 @@
 ### 🚀 Tech Stack & Tools <img src="https://media.giphy.com/media/qgM4N8w68E1w732DkE/giphy.gif" width="30px"/>
 
 **Languages:**<br>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"/>
-</a>
-&nbsp;&nbsp;
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"/>
 </a>
