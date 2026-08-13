@@ -10,11 +10,12 @@
 
 ### 👩‍💻 About Me <img src="https://media.giphy.com/media/LmNwrBzmhCgJm/giphy.gif" width="30px"/>
 
-- 🎓 I'm a B.Tech CSE student at **JECRC University**, Jaipur.
-- 💻 I love working on and contributing to **Open Source Projects**.
-- 🌱 I'm currently diving deep into the world of **Cybersecurity**.
-- 💬 Ask me about **Web Development**, **Linux**, or anything related to **Cybersecurity**.
-- 📫 How to reach me: **piyushgour2011@gmail.com**
+-🎓 B.Tech CSE student specializing in Cybersecurity at JECRC University, Jaipur.
+-🛡️ Building my foundation toward a career in SOC and defensive cybersecurity.
+-🐧 Learning and practicing Linux, Bash, networking, and Python.
+-🔎 Practicing Wireshark, packet analysis, cryptography, hashing, and GPG through hands-on labs.
+-🧪 Using TryHackMe to practice cybersecurity concepts in practical environments.
+-🌱 Exploring open-source projects and real-world development workflows.
 
 ---
 
