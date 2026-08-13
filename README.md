@@ -10,12 +10,12 @@
 
 ### 👩‍💻 About Me <img src="https://media.giphy.com/media/LmNwrBzmhCgJm/giphy.gif" width="30px"/>
 
--🎓 B.Tech CSE student specializing in Cybersecurity at JECRC University, Jaipur.
--🛡️ Building my foundation toward a career in SOC and defensive cybersecurity.
--🐧 Learning and practicing Linux, Bash, networking, and Python.
--🔎 Practicing Wireshark, packet analysis, cryptography, hashing, and GPG through hands-on labs.
--🧪 Using TryHackMe to practice cybersecurity concepts in practical environments.
--🌱 Exploring open-source projects and real-world development workflows.
+- 🎓 B.Tech CSE student specializing in Cybersecurity at JECRC University, Jaipur.
+- 🛡️ Building my foundation toward a career in SOC and defensive cybersecurity.
+- 🐧 Learning and practicing Linux, Bash, networking, and Python.
+- 🔎 Practicing Wireshark, packet analysis, cryptography, hashing, and GPG through hands-on labs.
+- 🧪 Using TryHackMe to practice cybersecurity concepts in practical environments.
+- 🌱 Exploring open-source projects and real-world development workflows.
 
 ---
 
