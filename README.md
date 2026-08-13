@@ -32,6 +32,26 @@
 
 ---
 
+🎯 Current Learning
+Cybersecurity
+     │
+     ├── Network Security
+     │     └── TCP/IP • DNS • HTTP • Packet Analysis
+     │
+     ├── Linux
+     │     └── Bash • CLI • System Fundamentals
+     │
+     ├── Security Analysis
+     │     └── Wireshark • PCAP • Cryptography • Hashing
+     │
+     ├── Programming
+     │     └── Python • C/C++
+     │
+     └── Hands-on Security Practice
+           └── TryHackMe • Wireshark • Cryptography • Hashing
+
+---
+
 ### 🚀 Tech Stack & Tools <img src="https://media.giphy.com/media/qgM4N8w68E1w732DkE/giphy.gif" width="30px"/>
 
 **Languages:**<br>
