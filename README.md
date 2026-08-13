@@ -1,136 +1,166 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="135px" />
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="135px" alt="Coding animation" />
   <h1>Hi there, I'm Piyush Sharma 👋🏻</h1>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F7F7F7&background=00000000&center=true&vCenter=true&width=440&lines=B.Tech+CSE+Student;Cybersecurity+Enthusiast;Open+Source+Contributor;Passionate+Developer" alt="Typing SVG" />
+  <p><strong>B.Tech CSE (Cybersecurity) Student • Aspiring SOC Analyst • Linux • Networking • Python</strong></p>
+  <p>
+    <a href="https://www.linkedin.com/in/piyush-sharma-babb7b241"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="mailto:[piyushgour2011@gmail.com](mailto:piyushgour2011@gmail.com)"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  </p>
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a **B.Tech Computer Science student specializing in Cybersecurity at JECRC University, Jaipur**. I've been building my foundation through **Linux, Bash, Python, computer networking, and hands-on cybersecurity labs**, with a long-term goal of working in **SOC and defensive security**.
+
+My hands-on learning so far includes **TryHackMe labs, Wireshark, cryptography, hashing, GPG, Linux command-line work, networking fundamentals, and security-focused command-line practice**.
+
+I also have a programming foundation in **Python, C, and C++**, along with experience with **HTML and CSS**.
+
+---
+
+## 🛡️ Cybersecurity Focus
+
+| Area                | What I've Practiced                                                 |
+| ------------------- | ------------------------------------------------------------------- |
+| 🌐 Networking       | TCP/IP, OSI Model, DNS, HTTP/HTTPS, ports, network fundamentals     |
+| 🔎 Traffic Analysis | Wireshark, TCP/HTTP/DNS traffic                                     |
+| 🔐 Cryptography     | Hashing, MD5/SHA concepts, GPG, public-key cryptography             |
+| 🐧 Linux            | CLI, files, processes, permissions, networking commands, Bash       |
+| 🧪 Security Labs    | TryHackMe, packet analysis, cryptography and hashing labs           |
+| 🐍 Python           | Functions, lists, dictionaries, file handling, modules and packages |
+
+---
+
+## 🚀 What I'm Working Toward
+
+I'm currently strengthening the fundamentals I need before moving deeper into **SOC operations and Blue Team security**.
+
+### Next focus
+
+* SIEM fundamentals
+* Log analysis
+* Alert investigation
+* Incident response fundamentals
+* Threat detection
+
+These are **learning goals, not skills I'm claiming as professional experience yet**.
+
+---
+
+## 🧰 Tech Stack & Tools
+
+### 💻 Languages
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="42" alt="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="42" alt="C++"/>
+</p>
+
+### 🌐 Web Development
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="42" alt="CSS3"/>
+</p>
+
+### 🐧 Linux & Scripting
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="42" alt="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="42" alt="Bash"/>
+</p>
+
+### 🛡️ Security & Network Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
+  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/>
+  <img src="https://img.shields.io/badge/GPG-0093DD?style=for-the-badge&logo=gnuprivacyguard&logoColor=white" alt="GPG"/>
+  <img src="https://img.shields.io/badge/Hashcat-111111?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashcat"/>
+</p>
+
+### 🛠️ Development Tools
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="42" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="42" alt="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg" height="42" alt="GCC"/>
+</p>
+
+### 🧪 Learning Platforms
+
+<p>
+  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/>
+</p>
+
+---
+
+## 🧪 Hands-On Security Practice
+
+### 🔎 Network & Traffic Analysis
+
+* Practiced analyzing network traffic with Wireshark.
+* Worked with TCP, HTTP, DNS, and network traffic.
+* Practiced identifying relevant protocol and traffic information.
+
+### 🔐 Cryptography & Hashing
+
+* Practiced hash identification and MD5/SHA concepts.
+* Worked with GPG, key import, and public/private key concepts.
+* Practiced hash-cracking fundamentals in controlled labs using Hashcat.
+
+### 🐧 Linux & Bash
+
+* Practiced Linux command-line usage and system fundamentals.
+* Worked with files, processes, permissions, networking commands, and Bash scripting.
+
+### 🧪 TryHackMe
+
+* Using hands-on rooms to reinforce networking, cryptography, hashing, Linux, and cybersecurity concepts.
+
+---
+
+## 🌱 Open Source
+
+I'm **exploring open-source development** and learning how larger projects are structured, built, and contributed to. I'm particularly interested in projects related to systems, Linux, and cybersecurity.
+
+---
+
+## 📜 Certifications
+
+* **Certified Network Defender (CND)** — EC-Council
+* **EC-Council Certified Security Specialist (ECSS)**
+* **Certified Secure Computer User (CSCU)** — EC-Council
+
+---
+
+## 🏆 Holopin Badges
+
+<div align="center">
+  <a href="https://holopin.io/@studentpiyush">
+    <img src="https://holopin.me/studentpiyush" alt="Holopin badges" width="700"/>
   </a>
 </div>
 
 ---
 
-### 👩‍💻 About Me <img src="https://media.giphy.com/media/LmNwrBzmhCgJm/giphy.gif" width="30px"/>
+## 📫 Connect With Me
 
-- 🎓 B.Tech CSE student specializing in Cybersecurity at JECRC University, Jaipur.
-- 🛡️ Building my foundation toward a career in SOC and defensive cybersecurity.
-- 🐧 Learning and practicing Linux, Bash, networking, and Python.
-- 🔎 Practicing Wireshark, packet analysis, cryptography, hashing, and GPG through hands-on labs.
-- 🧪 Using TryHackMe to practice cybersecurity concepts in practical environments.
-- 🌱 Exploring open-source projects and real-world development workflows.
-
----
-
-### 🤝 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/piyush-sharma-babb7b241" target="_blank">
+<div align="center">
+  <a href="https://www.linkedin.com/in/piyush-sharma-babb7b241">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:piyushgour2011@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <a href="mailto:[piyushgour2011@gmail.com](mailto:piyushgour2011@gmail.com)">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-</p>
+</div>
 
----
+<div align="center">
 
-🎯 Current Learning
-Cybersecurity
-     │
-     ├── Network Security
-     │     └── TCP/IP • DNS • HTTP • Packet Analysis
-     │
-     ├── Linux
-     │     └── Bash • CLI • System Fundamentals
-     │
-     ├── Security Analysis
-     │     └── Wireshark • PCAP • Cryptography • Hashing
-     │
-     ├── Programming
-     │     └── Python • C/C++
-     │
-     └── Hands-on Security Practice
-           └── TryHackMe • Wireshark • Cryptography • Hashing
+### Learn • Practice • Build • Document • Improve 🚀
 
----
-
-### 🚀 Tech Stack & Tools <img src="https://media.giphy.com/media/qgM4N8w68E1w732DkE/giphy.gif" width="30px"/>
-
-**Languages:**<br>
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://isocpp.org/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"/>
-</a>
-
-<br><br> **Web Development:**<br>
-<a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"/>
-</a>
-
-<br><br> **Tools & Platforms:**<br>
-
-<img align="right" height="250" src="https://camo.githubusercontent.com/0a0dc4ec78739f9c62b556ee154065af0de7b337110cfd95587770c4b3e269c7/68747470733a2f2f6d656469612e74656e6f722e636f6d2f7a7a6e746d325f3942336741414141432f6861636b65722e676966"  />
-  <br/>
-
-
-  
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://gcc.gnu.org/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg" height="40" alt="gcc logo"/>
-</a>
-<br clear="both">
-
-
-  
----
-
-### 🔥 My GitHub Stats <img src="https://media.giphy.com/media/3oKIPnAia Hgb2OQc5i/giphy.gif" width="30px"/>
-
-
-  <img src="https://streak-stats.demolab.com?user=studentpiyush&theme=dark&hide_border=true&border_radius=5" alt="GitHub Streak" />
-
-
----
-### 🔥 My Holopin Badges <img src="https://media.giphy.com/media/3oKIPnAia Hgb2OQc5i/giphy.gif" width="30px"/>
-<p align="center">
-  <a href="https://holopin.io/@studentpiyush" target="_blank" rel="noopener noreferrer">
-    <img src="https://holopin.me/studentpiyush" alt="@studentpiyush's Holopin badges" width="700" />
-  </a>
-</p>
-
+</div>
